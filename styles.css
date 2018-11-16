@@ -1,0 +1,27 @@
+body{
+    margin: 50px 75px;
+    padding: 25px 50px;
+    border: 2px solid black;
+}
+
+.header{
+    text-align: center;
+    line-height: 0.75;
+    }
+.summary{
+    padding: 0 10%;
+    font-weight: bold;
+}
+hr{
+    border-top: 1px solid black;
+}
+ul{
+    font-size: 12pt;
+}
+.date{
+    float:right;
+}
+.location{
+    font-style:italic;    
+    line-height: 0.25;
+}
